@@ -1,0 +1,6 @@
+Execution:
+
+```
+python ./main.py
+```
+
